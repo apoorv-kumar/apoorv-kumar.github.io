@@ -1,1 +1,3 @@
 My personal git website.
+
+Source code is in "hugo" dir. Build artifacts are generated in the root dir because of github requirements.

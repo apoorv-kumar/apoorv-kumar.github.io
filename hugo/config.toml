@@ -1,0 +1,78 @@
+baseURL = "https://apoorv-kumar.github.io/"
+languageCode = "en-us"
+title = "Apoorv's Portfolio"
+themesDir = "themes"
+theme = "hugo-initio"
+publishDir = "../"
+
+[params]
+    name = "Apoorv Kumar"
+    description = "Finance | Technology | Leadership"
+    email = "apoorv.kumar247 [@] gmail.com"
+    phone = ""
+    address = "Bengaluru, India"
+    year = 2019
+    avatar = "images/guy.jpg"
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/apoorv_sfakepics"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:some.email@somewhere.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
+
