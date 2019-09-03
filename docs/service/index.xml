@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Apoorv&#39;s Portfolio</title>
+    <link>https://apoorv-kumar.github.io/service/</link>
+    <description>Recent content in Services on Apoorv&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://apoorv-kumar.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corporate training</title>
+      <link>https://apoorv-kumar.github.io/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apoorv-kumar.github.io/service/service3/</guid>
+      <description>&lt;p&gt;To keep up with your competition, you need your employees to be abreast with the cutting edge tools. With hands on trainings, I can help your employees learn and decide if a technology can give you the business edge.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>System Architecture</title>
+      <link>https://apoorv-kumar.github.io/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apoorv-kumar.github.io/service/service1/</guid>
+      <description>&lt;p&gt;The corner stone of a successful business is a scalable and reliable tech infrastructure. Work with me to make sure your systems are ready to handle the 100x growth when your product succeeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tech team building</title>
+      <link>https://apoorv-kumar.github.io/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apoorv-kumar.github.io/service/service2/</guid>
+      <description>&lt;p&gt;Having built teams for Goldman Sachs to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
