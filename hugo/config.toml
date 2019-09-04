@@ -19,7 +19,7 @@ publishDir = "../"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    showRecentWorks = false
     showDownload = false
     showClients = false
 
@@ -56,14 +56,14 @@ publishDir = "../"
     network = ""
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/apoorvkumart"
     icon = "fa-linkedin-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/apoorv-kumar"
     icon = "fa-github"
     footer = true
     sharethis = false
