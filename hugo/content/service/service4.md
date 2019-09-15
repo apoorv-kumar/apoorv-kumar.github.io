@@ -1,8 +1,8 @@
 +++
-title = "Tech team strategies"
+title = "System Architecture"
 +++
 
-With experience building teams at Goldman Sachs to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.
+Data is the new oil. With my experience in building blazing fast, cloud scale and regulation compliant data platforms, make sure that your data is safe, secure and ready to serve the business at all times. 
 
 <!--more-->
 
