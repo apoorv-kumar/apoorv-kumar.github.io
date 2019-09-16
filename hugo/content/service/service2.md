@@ -2,7 +2,7 @@
 title = "Tech team strategies"
 +++
 
-With experience building teams at Goldman Sachs to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.
+With experience building teams at finance behemoths to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.
 
 <!--more-->
 

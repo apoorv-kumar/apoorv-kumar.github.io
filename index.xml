@@ -6,7 +6,7 @@
     <description>Recent content on Apoorv&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://apoorv-kumar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,12 +22,12 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
     </item>
     
     <item>
-      <title>Vivamus Lacus Mauris</title>
-      <link>https://apoorv-kumar.github.io/post/vivamus-lacus-mauris/</link>
-      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      <title>AWS EC2 Concepts</title>
+      <link>https://apoorv-kumar.github.io/post/aws_ec2_concepts/</link>
+      <pubDate>Mon, 16 Sep 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://apoorv-kumar.github.io/post/vivamus-lacus-mauris/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+      <guid>https://apoorv-kumar.github.io/post/aws_ec2_concepts/</guid>
+      <description>I just finished writing the first article of 5 part Compute@AWS series. This piece discusses the AWS EC2 compute. Read it here.</description>
     </item>
     
     <item>
@@ -40,6 +40,15 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
     </item>
     
     <item>
+      <title>Data Management</title>
+      <link>https://apoorv-kumar.github.io/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apoorv-kumar.github.io/service/service4/</guid>
+      <description>&lt;p&gt;Data is the new oil. With my experience in building blazing fast, cloud scale and regulation compliant data platforms, make sure that your data is safe, secure and ready to serve the business at all times.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>System Architecture</title>
       <link>https://apoorv-kumar.github.io/service/service1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -49,12 +58,12 @@ Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda 
     </item>
     
     <item>
-      <title>Tech team building</title>
+      <title>Tech team strategies</title>
       <link>https://apoorv-kumar.github.io/service/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://apoorv-kumar.github.io/service/service2/</guid>
-      <description>&lt;p&gt;Having built teams for Goldman Sachs to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.&lt;/p&gt;</description>
+      <description>&lt;p&gt;With experience building teams at finance behemoths to startups, I can help you assess the right team combination for your goals before, during and after the hiring process to ensure timely product delivery.&lt;/p&gt;</description>
     </item>
     
   </channel>

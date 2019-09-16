@@ -1,5 +1,5 @@
 +++
-title = "System Architecture"
+title = "Data Management"
 +++
 
 Data is the new oil. With my experience in building blazing fast, cloud scale and regulation compliant data platforms, make sure that your data is safe, secure and ready to serve the business at all times. 
